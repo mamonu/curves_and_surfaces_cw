@@ -3,7 +3,7 @@
 
 My 2004 Curves and Surfaces coursework from the MSc in CG and VE i attended that year.
 
-Some details
+Its a MFC Windows app that can draw certain kinds of curves.
 
 ### Implemented:
 
