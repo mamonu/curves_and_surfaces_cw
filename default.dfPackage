@@ -1,0 +1,237 @@
+package id34gtpdfbys0t3dfbyvd5z;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:cpp#Class#Perspectivecamera:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}/**
+@__ref <oiref:cpp#Class#CBSplineHelpers:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}/**
+@__ref <oiref:cpp#Class#CBSpline:oiref><oihard>
+@__modelType reference 
+*/
+class reference2 {
+}/**
+@__ref <oiref:cpp#Class#CCubicBSpline:oiref><oihard>
+@__modelType reference 
+*/
+class reference3 {
+}/**
+@__ref <oiref:cpp#Class#CBSplineSurface:oiref><oihard>
+@__modelType reference 
+*/
+class reference4 {
+}/**
+@__ref <oiref:cpp#Class#TransferableSkills::Material:oiref><oihard>
+@__modelType reference 
+@hideAll
+@__hidden
+*/
+class reference5 {
+}/**
+@__ref <oiref:cpp#Class#Orthocamera:oiref><oihard>
+@__modelType reference 
+*/
+class reference6 {
+}/**
+@__ref <oiref:design#Class#id4uv3fdfbys0t3dfbyvfa7.diagram:oiref><oihard>
+@__modelType reference
+@__fqn <oiref:#Package#res:oiref> 
+@__hidden
+*/
+class reference7 {
+}/**
+@__ref <oiref:cpp#Class#CQuadraticBSpline:oiref><oihard>
+@__modelType reference 
+*/
+class reference8 {
+}/**
+@__ref <oiref:cpp#Class#Camera:oiref><oihard>
+@__modelType reference 
+*/
+class reference9 {
+}/**
+@__ref <oiref:cpp#Class#COpenGLWnd:oiref><oihard>
+@__modelType reference 
+*/
+class reference10 {
+}/**
+@__ref <oiref:cpp#Class#CBezierSurface:oiref><oihard>
+@__modelType reference 
+*/
+class reference11 {
+}/**
+@__ref <oiref:cpp#Class#CHelpers:oiref><oihard>
+@__modelType reference 
+*/
+class reference12 {
+}/**
+@__ref <oiref:cpp#Class#CSurface:oiref><oihard>
+@__modelType reference 
+*/
+class reference13 {
+}/**
+@__ref <oiref:cpp#Class#CMyOpenGLWnd:oiref><oihard>
+@__modelType reference 
+*/
+class reference14 {
+}/**
+@__ref <oiref:cpp#Class#Bitmap:oiref><oihard>
+@__modelType reference 
+@__hidden
+*/
+class reference15 {
+}/**
+@__ref <oiref:cpp#Class#CCurve:oiref><oihard>
+@__modelType reference 
+*/
+class reference16 {
+}/**
+@__ref <oiref:cpp#Class#CManager:oiref><oihard>
+@__modelType reference 
+@__hidden
+*/
+class reference17 {
+}/**
+@__ref <oiref:cpp#Class#textureloader:oiref><oihard>
+@__modelType reference 
+*/
+class reference18 {
+}/**
+@__ref <oiref:cpp#Class#Vector3d:oiref><oihard>
+@__modelType reference 
+*/
+class reference19 {
+}/**
+@__ref <oiref:cpp#Class#CMainFrame:oiref><oihard>
+@__modelType reference 
+*/
+class reference20 {
+}/**
+@__ref <oiref:cpp#Class#CMFCOpenGLsinglewindowApp:oiref><oihard>
+@__modelType reference 
+@__hidden
+*/
+class reference21 {
+}/**
+@__ref <oiref:cpp#Class#CNurbsSurface:oiref><oihard>
+@__modelType reference 
+*/
+class reference22 {
+}/**
+@__ref <oiref:cpp#Class#RGBTriple:oiref><oihard>
+@__modelType reference 
+@__hiddenMember <oiref:cpp#Member#RGBTriple#green#(##)#:oiref>
+@__hidden
+*/
+class reference23 {
+}/**
+@__ref <oiref:cpp#Class#CNurbs:oiref><oihard>
+@__modelType reference 
+*/
+class reference24 {
+}/**
+@__ref <oiref:cpp#Class#CBezier:oiref><oihard>
+@__modelType reference 
+*/
+class reference25 {
+}/**
+@__ref <oiref:cpp#Class#CHermite:oiref><oihard>
+@__modelType reference 
+*/
+class reference26 {
+}/**
+@__ref <oiref:cpp#Class#CRevolutionSurface:oiref><oihard>
+@__modelType reference 
+*/
+class reference27 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:MemberLink#<oiref:cpp#Member#Camera#_direction:oiref>=264,134,787,134:oigroup>
+<oigroup:<oiref:cpp#Extends#CNurbsSurface#CBSplineSurface:oiref>=763,1960,763,1920:oigroup>
+<oigroup:<oiref:cpp#Extends#CBezierSurface#CSurface:oiref>=838,1730,838,1676:oigroup>
+<oigroup:<oiref:cpp#Extends#CBSpline#CCurve:oiref>=1276,1454,948,1364:oigroup>
+<oigroup:<oiref:cpp#Class#CManager:oiref>=1081,790,190,254,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CBSplineHelpers#m_pinstanceof:oiref>=1145,200,1145,248,1231,248,1231,162,1183,162:oigroup>
+<oigroup:<oiref:cpp#Extends#CBSplineSurface#CSurface:oiref>=750,1730,750,1676:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CCurve#m_pparent:oiref>=579,1434,28,16,0:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CBSplineHelpers#m_pinstanceof:oiref>=1187,142,28,16,0:oigroup>
+<oigroup:<oiref:cpp#Class#CMyOpenGLWnd:oiref>=474,1454,200,1230,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Camera#_center:oiref>=264,382,787,382:oigroup>
+<oigroup:<oiref:cpp#Class#CBSplineSurface:oiref>=685,1730,122,190,0:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CManager#m_pcurve:oiref>=979,897,28,16,0:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CMyOpenGLWnd#m_pcurve:oiref>=766,1364,28,16,0:oigroup>
+<oigroup:<oiref:cpp#Class#Perspectivecamera:oiref>=217,1454,131,101,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CMyOpenGLWnd#m_pcamera:oiref>=145,1515,28,16,0:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CCurve#m_selectedpoint:oiref>=815,680,26,16,0:oigroup>
+<oigroup:<oiref:cpp#Class#CBezierSurface:oiref>=827,1730,113,130,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CCurve#m_point:oiref>=904,790,904,680:oigroup>
+<oigroup:<oiref:cpp#Class#Camera:oiref>=96,10,168,622,1:oigroup>
+<oigroup:<oiref:cpp#Class#CMFCOpenGLsinglewindowApp:oiref>=1056,510,198,133,1:oigroup>
+<oigroup:<oiref:cpp#Extends#Orthocamera#Camera:oiref>=128,1454,128,632:oigroup>
+<oigroup:<oiref:cpp#Extends#CSurface#CCurve:oiref>=771,1454,868,1364:oigroup>
+<oigroup:<oiref:cpp#Class#CMainFrame:oiref>=309,2764,185,254,1:oigroup>
+<oigroup:<oiref:cpp#Class#CCurve:oiref>=775,790,200,574,1:oigroup>
+<oigroup:<oiref:cpp#Extends#CRevolutionSurface#CBezier:oiref>=1070,1680,1070,1612:oigroup>
+<oigroup:<oiref:cpp#Class#CBSpline:oiref>=1206,1454,140,174,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CCurve#m_pparent:oiref>=805,1364,611,1454:oigroup>
+<oigroup:<oiref:cpp#Class#CBSplineHelpers:oiref>=983,10,200,190,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Bitmap#_pPalette:oiref>=1706,129,1812,129:oigroup>
+<oigroup:<oiref:cpp#Class#RGBTriple:oiref>=1812,10,139,222,1:oigroup>
+<oigroup:<oiref:cpp#Class#CBezier:oiref>=1044,1454,142,158,1:oigroup>
+<oigroup:<oiref:cpp#Class#CHermite:oiref>=869,1454,155,181,1:oigroup>
+<oigroup:<oiref:cpp#Extends#CMyOpenGLWnd#COpenGLWnd:oiref>=574,1454,574,1220:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Camera#_eye:oiref>=264,507,787,507:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CHelpers#m_pinstanceof:oiref>=1439,148,28,16,0:oigroup>
+<oigroup:<oiref:cpp#Extends#CNurbs#CBSpline:oiref>=1323,1730,1323,1628:oigroup>
+<oigroup:<oiref:cpp#Class#Bitmap:oiref>=1517,10,189,350,1:oigroup>
+<oigroup:<oiref:cpp#Class#CCubicBSpline:oiref>=1117,1680,112,110,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CCurve#m_selectedpoint:oiref>=845,790,845,680:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CMyOpenGLWnd#m_pcamera:oiref>=474,1605,294,1605,141,1535:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CMyOpenGLWnd#m_pcamera2:oiref>=474,1504,348,1504:oigroup>
+<oigroup:<oiref:cpp#Extends#CCubicBSpline#CBSpline:oiref>=1217,1680,1217,1628:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CManager#m_pcurve:oiref>=1081,917,975,917:oigroup>
+<oigroup:<oiref:cpp#Extends#CQuadraticBSpline#CBSpline:oiref>=1248,1800,1248,1628:oigroup>
+<oigroup:<oiref:cpp#Class#COpenGLWnd:oiref>=475,790,198,430,1:oigroup>
+<oigroup:<oiref:cpp#Extends#CHermite#CCurve:oiref>=895,1454,895,1364:oigroup>
+<oigroup:<oiref:cpp#Class#CSurface:oiref>=694,1454,155,222,1:oigroup>
+<oigroup:<oiref:design#Class#id4uv3fdfbys0t3dfbyvfa7.diagram:oiref>=983,510,53,57,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CMyOpenGLWnd#m_pcurve:oiref>=642,1454,842,1364:oigroup>
+<oigroup:<oiref:cpp#Class#Orthocamera:oiref>=10,1454,131,101,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CMainFrame#m_wndView:oiref>=484,2764,484,2684:oigroup>
+<oigroup:<oiref:cpp#Class#textureloader:oiref>=514,2764,151,142,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CMyOpenGLWnd#m_pcamera2:oiref>=352,1484,28,16,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CHelpers#m_pinstanceof:oiref>=1403,200,1403,242,1477,242,1477,168,1435,168:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#CCurve#m_point:oiref>=874,680,26,16,0:oigroup>
+<oigroup:<oiref:cpp#Extends#Perspectivecamera#Camera:oiref>=231,1454,231,632:oigroup>
+<oigroup:<oiref:cpp#Class#CNurbs:oiref>=1300,1730,210,270,0:oigroup>
+<oigroup:<oiref:cpp#Class#Vector3d:oiref>=787,10,176,670,1:oigroup>
+<oigroup:<oiref:cpp#Class#CRevolutionSurface:oiref>=960,1680,137,120,0:oigroup>
+<oigroup:<oiref:cpp#Class#CNurbsSurface:oiref>=720,1960,200,250,0:oigroup>
+<oigroup:<oiref:cpp#Extends#CBezier#CCurve:oiref>=1115,1454,921,1364:oigroup>
+<oigroup:<oiref:cpp#Class#CHelpers:oiref>=1271,10,164,190,1:oigroup>
+<oigroup:<oiref:cpp#Class#CQuadraticBSpline:oiref>=1120,1800,170,120,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Camera#_up:oiref>=264,258,787,258:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CMyOpenGLWnd#m_texture:oiref>=589,2684,589,2764:oigroup>
+<oigroup:<oiref:cpp#Class#TransferableSkills::Material:oiref>=1756,290,168,30,1:oigroup>
+*/
+class __positions {
+}
